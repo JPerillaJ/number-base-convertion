@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/number-base-convertion/static/css/main.92b6fa25.css",
+    "main.css": "/number-base-convertion/static/css/main.6b84c87e.css",
     "main.js": "/number-base-convertion/static/js/main.a3d34673.js",
     "static/js/787.20170e10.chunk.js": "/number-base-convertion/static/js/787.20170e10.chunk.js",
     "index.html": "/number-base-convertion/index.html",
-    "main.92b6fa25.css.map": "/number-base-convertion/static/css/main.92b6fa25.css.map",
+    "main.6b84c87e.css.map": "/number-base-convertion/static/css/main.6b84c87e.css.map",
     "main.a3d34673.js.map": "/number-base-convertion/static/js/main.a3d34673.js.map",
     "787.20170e10.chunk.js.map": "/number-base-convertion/static/js/787.20170e10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92b6fa25.css",
+    "static/css/main.6b84c87e.css",
     "static/js/main.a3d34673.js"
   ]
 }
