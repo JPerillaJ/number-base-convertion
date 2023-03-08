@@ -1,0 +1,48 @@
+
+
+.css-quj9j6-MuiTable-root {
+  min-width: 0px !important;
+}
+
+@media only screen and (max-width: 800px) {
+  .css-1azl6jz-MuiTableCell-root {
+    padding: 10px 10px 10px 10px !important;
+  }
+
+  .css-quj9j6-MuiTable-root {
+    width: 50px !important;
+    min-width: 0px !important;
+  }
+
+  .css-177gid-MuiTableCell-root {
+    padding: 10px 20px 10px 0px !important;
+  }
+
+  .css-1ex1afd-MuiTableCell-root{
+    padding: 10px 0px 10px 10px !important;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  /* headers */
+  .css-1azl6jz-MuiTableCell-root {
+    padding: 10px 6px 10px 6px !important;
+  }
+
+  .css-1ygcj2i-MuiTableCell-root {
+    padding: 10px 6px 10px 6px !important;
+  }
+
+  .css-quj9j6-MuiTable-root {
+    width: 50px !important;
+    min-width: 0px !important;
+  }
+
+  .css-177gid-MuiTableCell-root {
+    padding: 10px 20px 10px 0px !important;
+  }
+
+  .css-1ex1afd-MuiTableCell-root{
+    padding: 10px 0px 10px 10px !important;
+  }
+}
